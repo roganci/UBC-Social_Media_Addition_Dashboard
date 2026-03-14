@@ -1,1 +1,1 @@
-# UBC_Social-Media-Addition_Dashboard
+# UBC Social Media Addition Dashboard
